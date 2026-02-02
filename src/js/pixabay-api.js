@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const BASE_URL = "https://pixabay.com/api/";
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_KEY = "goit-js-hw-11";
 
 /**
  * @param {string} query
